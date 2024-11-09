@@ -7,6 +7,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/modedevteam?style=social)
 ![Discord](https://img.shields.io/discord/1304602978497331290)
 
+<iframe src="https://discord.com/widget?id=1304602978497331290&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 Welcome to the Mode Community repository! This is the central hub for tracking issues, discussions, and feature requests related to Mode, the first client-only AI code copilot that connects directly to the language models you trust.
 
 ## About Mode
