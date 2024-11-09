@@ -2,6 +2,8 @@
   <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeNarrowHeader.jpg" alt="HeaderLogo">
 </p>
 
+  <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/Mode.png" alt="HeaderLogo" style="width:100%; object-fit:cover;">
+
 # Mode Community
 
 ![GitHub issues](https://img.shields.io/github/issues/modedevteam/mode-community)
