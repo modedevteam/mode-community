@@ -1,4 +1,5 @@
-# <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/Mode.png" alt="Mode Logo" width="40" align="left"> Mode Community
+![HeaderLogo](https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeHeader.j[g)
+# Mode Community
 
 ![GitHub issues](https://img.shields.io/github/issues/modedevteam/mode-community)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/modedevteam/mode-community)
