@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeNarrowHeader.jpg" alt="HeaderLogo" style="width:100%; height:auto;">
+  <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeNarrowHeader2.jpg" alt="HeaderLogo" style="width:100%; height:auto;">
 </p>
 
 # Mode Community
