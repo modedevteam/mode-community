@@ -1,4 +1,4 @@
-![HeaderLogo](https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeHeader.j[g)
+![HeaderLogo](https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeHeader.jpg)
 # Mode Community
 
 ![GitHub issues](https://img.shields.io/github/issues/modedevteam/mode-community)
