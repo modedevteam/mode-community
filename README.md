@@ -1,11 +1,11 @@
 # Mode Community
 
-![GitHub issues](https://img.shields.io/github/issues/modedevteam/mode)
+![GitHub issues](https://img.shields.io/github/issues/modedevteam/mode-community)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/modedevteam/mode-community)
 ![GitHub license](https://img.shields.io/github/license/modedevteam/mode-community)
 ![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-orange)
 ![Twitter Follow](https://img.shields.io/twitter/follow/modedevteam?style=social)
-![Discord](https://img.shields.io/discord/XHxbjcRM?label=discord)
+![Discord](https://img.shields.io/discord/1304602978497331290)
 
 Welcome to the Mode Community repository! This is the central hub for tracking issues, discussions, and feature requests related to Mode, the first client-only AI code copilot that connects directly to the language models you trust.
 
