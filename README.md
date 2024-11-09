@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeNarrowHeader2.jpg" alt="HeaderLogo"">
-</p>
-
-# Mode Community
+# <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/Mode.png" alt="Mode Logo" width="40" align="left"> Community
 
 ![GitHub issues](https://img.shields.io/github/issues/modedevteam/mode-community)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/modedevteam/mode-community)
