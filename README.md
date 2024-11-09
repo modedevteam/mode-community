@@ -1,4 +1,7 @@
-![HeaderLogo](https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeNarrowHeader.jpg)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/ModeNarrowHeader.jpg" alt="HeaderLogo" width="400"/>
+</p>
+
 # Mode Community
 
 ![GitHub issues](https://img.shields.io/github/issues/modedevteam/mode-community)
