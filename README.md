@@ -6,6 +6,8 @@ Welcome to the Mode Community repository! This is the central hub for tracking i
 
 Mode is built to keep developers in control of their coding experience, connecting directly with AI providers like Anthropic, OpenAI, Google, and Mistral. No third-party backends, no tracking, and no external servers—just a seamless coding assistant tailored to your needs. With Mode, you bring your own API keys, customize settings, and ensure that your data remains private and secure.
 
+![See Mode in Action](https://cdn.jsdelivr.net/gh/modedevteam/mode-assets/Chat.gif)
+
 ## Getting Involved
 
 ### Issues
@@ -23,7 +25,5 @@ Have a feature idea? Let us know! We're actively shaping Mode’s future, and yo
 
 ## Code of Conduct
 We’re here to foster a positive, collaborative environment. Be respectful and constructive when engaging with others, and please report any behavior that doesn’t align with this community's values.
-
----
 
 Let’s build an exceptional coding experience with Mode! We’re thrilled to have you here and look forward to hearing your thoughts, feedback, and suggestions.
